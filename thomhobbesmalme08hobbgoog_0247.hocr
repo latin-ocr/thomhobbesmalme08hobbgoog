@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomhobbesmalme08hobbgoog_0247.png"; bbox 0 0 2689 3739; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 799 1316 1653 1385">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 799 1316 1653 1385">
+     <span class='ocr_line' id='line_1_1' title="bbox 799 1316 1653 1385; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 799 1316 1198 1385; x_wconf 89' lang='lat' dir='ltr'><strong>DIALOGUS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1261 1317 1653 1384; x_wconf 89' lang='lat' dir='ltr'>PHYSICUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 662 1547 1796 1636">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 662 1547 1796 1636">
+     <span class='ocr_line' id='line_1_2' title="bbox 662 1547 1796 1636; baseline 0 -12"><span class='ocrx_word' id='word_1_3' title='bbox 662 1548 801 1624; x_wconf 93' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 870 1547 1355 1625; x_wconf 86' lang='lat' dir='ltr'><strong>NATURA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1423 1547 1796 1636; x_wconf 87' lang='lat' dir='ltr'><strong>AERIS,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 523 1765 1926 1807">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 523 1765 1926 1807">
+     <span class='ocr_line' id='line_1_3' title="bbox 523 1765 1926 1807; baseline 0.001 -4"><span class='ocrx_word' id='word_1_6' title='bbox 523 1765 847 1807; x_wconf 74' lang='lat' dir='ltr'>CQNJEOTURA</span> <span class='ocrx_word' id='word_1_7' title='bbox 866 1771 1062 1806; x_wconf 78' lang='lat' dir='ltr'>SUMPTA</span> <span class='ocrx_word' id='word_1_8' title='bbox 1077 1771 1143 1804; x_wconf 72' lang='lat' dir='ltr'>AB</span> <span class='ocrx_word' id='word_1_9' title='bbox 1165 1769 1522 1804; x_wconf 72' lang='lat' dir='ltr'>EXPERIMENTIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1545 1770 1705 1805; x_wconf 74' lang='lat' dir='ltr'>NUPER</span> <span class='ocrx_word' id='word_1_11' title='bbox 1724 1771 1926 1806; x_wconf 79' lang='lat' dir='ltr'>LONDINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 777 1889 1677 1924">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 777 1889 1677 1924">
+     <span class='ocr_line' id='line_1_4' title="bbox 777 1889 1677 1924; baseline -0.002 0"><span class='ocrx_word' id='word_1_12' title='bbox 777 1889 972 1924; x_wconf 78' lang='lat' dir='ltr'>HABITIS</span> <span class='ocrx_word' id='word_1_13' title='bbox 993 1889 1044 1923; x_wconf 85' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_14' title='bbox 1068 1889 1304 1924; x_wconf 80' lang='lat' dir='ltr'>COLLEGIO</span> <span class='ocrx_word' id='word_1_15' title='bbox 1328 1889 1677 1924; x_wconf 77' lang='lat' dir='ltr'>GRESHAMENSL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 742 2201 1723 2254">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 742 2201 1723 2254">
+     <span class='ocr_line' id='line_1_5' title="bbox 742 2201 1723 2254; baseline -0.001 -2"><span class='ocrx_word' id='word_1_16' title='bbox 742 2202 840 2252; x_wconf 90' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_17' title='bbox 892 2201 1479 2254; x_wconf 88' lang='lat' dir='ltr'><strong>DUPLICATIONE</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1529 2202 1723 2254; x_wconf 87' lang='lat' dir='ltr'>CUBI.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

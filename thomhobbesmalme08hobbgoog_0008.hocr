@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomhobbesmalme08hobbgoog_0008.png"; bbox 0 0 2689 3739; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1081 1787 1762 1858">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1081 1787 1762 1858">
+     <span class='ocr_line' id='line_1_1' title="bbox 1346 1787 1494 1807; baseline 0.007 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1346 1787 1494 1807; x_wconf 68' lang='lat' dir='ltr'>tostum:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1081 1824 1762 1858; baseline -0.004 -7"><span class='ocrx_word' id='word_1_2' title='bbox 1081 1832 1113 1851; x_wconf 71' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_3' title='bbox 1124 1831 1169 1851; x_wconf 78' lang='lat' dir='ltr'>ms</span> <span class='ocrx_word' id='word_1_4' title='bbox 1187 1830 1354 1857; x_wconf 70' lang='lat' dir='ltr'>tutunus,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1374 1824 1431 1858; x_wconf 79' lang='grc' dir='ltr'>Ιυυ,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1447 1832 1489 1851; x_wconf 65' lang='grc' dir='ltr'>υτ.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1509 1824 1655 1851; x_wconf 54' lang='lat' dir='ltr'>”namra</span> <span class='ocrx_word' id='word_1_8' title='bbox 1674 1828 1762 1849; x_wconf 65' lang='lat' dir='ltr'>uua.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
